@@ -70,4 +70,4 @@ Choose only ONE best answer.
 
 - [ ] B src/index.js
 
-- [ ] Cpackage.json
+- [ ] C package.json
