@@ -20,7 +20,7 @@ QUESTION 2 OF 5
 
 Choose only ONE best answer.
 
-- [ ] A
+- [x] A
 NodeJS 
 
 - [ ] B
