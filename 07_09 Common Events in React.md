@@ -6,27 +6,27 @@ ReactJS এ Native DOM ইভেন্টস গুলো ব্যবহার 
   - onCopy
   - onCut
   - onPaste
-- Composition Events
+- [Composition Events](https://reactjs.org/docs/events.html#composition-events)
   - onCompositionStart
   - onCompositionUpdate
   - onCompositionEnd
-- Keyboard Events
+- [Keyboard Events](https://reactjs.org/docs/events.html#keyboard-events)
   - onKeyDown
   - onKeyUp
   - onKeyPress
-- Focus Events
+- [Focus Events](https://reactjs.org/docs/events.html#focus-events)
   - onFocus
   - onBlur
-- Form Events
+- [Form Events](https://reactjs.org/docs/events.html#form-events)
   - onChange
   - onInput
   - onInvalid
   - onReset
   - onSubmit
-- Generic Events
+- [Generic Events](https://reactjs.org/docs/events.html#generic-events)
   - onError
   - onLoad
-- Mouse Events
+- [Mouse Events](https://reactjs.org/docs/events.html#mouse-events)
   - onClick
   - onContextMenu
   - onDoubleClick
@@ -45,7 +45,7 @@ ReactJS এ Native DOM ইভেন্টস গুলো ব্যবহার 
   - onMouseOut- 
   - onMouseOver
   - onMouseUp
-- Pointer Events
+- [Pointer Events](https://reactjs.org/docs/events.html#pointer-events)
   - onPointerDown
   - onPointerMove
   - onPointerUp
@@ -56,18 +56,18 @@ ReactJS এ Native DOM ইভেন্টস গুলো ব্যবহার 
   - onPointerLeave
   - onPointerOver
   - onPointerOut
-- Selection Events
+- [Selection Events](https://reactjs.org/docs/events.html#selection-events)
   - onSelect
-- Touch Events
+- [Touch Events](https://reactjs.org/docs/events.html#touch-events)
   - onTouchCancel
   - onTouchEnd
   - onTouchMove
   - onTouchStart
-- UI Events
+- [UI Events](https://reactjs.org/docs/events.html#ui-events)
   - onScroll
-- Wheel Events
+- [Wheel Events](https://reactjs.org/docs/events.html#wheel-events)
   - onWheel
-- Media Events
+- [Media Events](https://reactjs.org/docs/events.html#media-events)
   - onAbort
   - onCanPlay
   - onCanPlayThrough
@@ -91,17 +91,18 @@ ReactJS এ Native DOM ইভেন্টস গুলো ব্যবহার 
   - onTimeUpdate
   - onVolumeChange
   - onWaiting
-- Image Events
+- [Image Events](https://reactjs.org/docs/events.html#image-events)
   - onLoad
   - onError
-- Animation Events
+- [Animation Events](https://reactjs.org/docs/events.html#animation-events)
   - onAnimationStart
   - onAnimationEnd
   - onAnimationIteration
-- Transition Events
+- [Transition Events](https://reactjs.org/docs/events.html#transition-events)
   - onTransitionEnd
-- Other Events
+- [Other Events](https://reactjs.org/docs/events.html#other-events)
   - onToggle
+  
 React এর Synthetic Events গুলো সম্পর্কে আরও বিস্তারিত জানতে React এর অফিসিয়াল ডকুমেন্টেশনটি খেয়াল করুন - https://reactjs.org/docs/events.html
 
 
