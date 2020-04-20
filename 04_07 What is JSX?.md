@@ -1,4 +1,6 @@
-#What is JSX?
+# What is JSX?
+
+### THIS IS A EXAMPLE OF JSX CODE
 
 ```JSX
 import React, { Component } from 'react';
@@ -15,6 +17,7 @@ class App extends Component{
 }
 ```
 
+### SAME CODE, IF WE CONVERT THE JSX CODE INTO JAVASCRIPT CODE WITH BABEL
 ```JS
 import React, { Component } from 'react';
 
@@ -29,5 +32,16 @@ class App extends Component{
       )
     ]);
   }
+}
+```
+উদাহরন সরূপ একটা ইলিমেন্ট এর জন্য JSX এর পিছনে থাকা Object এর শেফ দেখানো হল।
+```JS
+const element = {
+  type: 'div',
+  props: {
+    className: 'test',
+    title: 'Test Me'
+  },
+  children: ['p', 'h1', 'img'] | 'Test' | null
 }
 ```
