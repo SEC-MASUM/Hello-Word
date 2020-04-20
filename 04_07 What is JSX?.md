@@ -17,16 +17,17 @@ class App extends Component{
 
 ```JS
 import React, { Component } from 'react';
+
 class App extends Component{
-	render(){
-		return React.createElement('div', { classNmae: 'App'}, [
-			React.createElement('h1', null, 'What is JSX?'),
-			React.createElement(
-				'p',
-				null,
-				'JSX is Awesome and it's Mean Javascript Extension'
-			)
-		]);
-	}
+  render(){
+    return React.createElement('div', { classNmae: 'App'}, [
+      React.createElement('h1', null, 'What is JSX?'),
+      React.createElement(
+        'p',
+        null,
+        'JSX is Awesome and it's Mean Javascript Extension'
+      )
+    ]);
+  }
 }
 ```
