@@ -2,7 +2,7 @@
 
 ReactJS এ Native DOM ইভেন্টস গুলো ব্যবহার না করে সাধারণ SyntheticEvents ব্যবহার করা হয়। আসলে দুইটা ইভেন্টের ভিতরে তেমন কোন পার্থক্যই নেই। শুধুমাত্র SyntheticEvents এর ক্ষেত্রে Cross Browser সাপোর্টটা আমরা পেয়ে থাকি। React এর Synthetic Events গুলো হল -
 
-- Clipboard Events
+- [Clipboard Events](https://reactjs.org/docs/events.html#clipboard-events)
   - onCopy
   - onCut
   - onPaste
