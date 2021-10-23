@@ -1,2 +1,2 @@
 # React Article
-It was my First repository. For Learning about How GitHub Word!!!!
+### React is  awesome  JavaScript library for building user interfaces.
